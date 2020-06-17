@@ -1,4 +1,4 @@
-# Notas Curso de JavaScript com ES6 Rocketseat 
+# Notas Curso de JavaScript com ES6 da Rocketseat
 
 ## Configurações iniciais:
 --> yarn init
