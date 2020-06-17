@@ -11,19 +11,19 @@
 --> O Babal faz com que todos os navegadores entendam as nossas features
 --> Criar e configurar o arquivo .babelrc
 
-## Operadores Rest/Spread
+## Operadores Rest/Spread:
 --> yarn add @babel/plugin-proposal-object-rest-spread
 
-## Webpack
+## Webpack:
 --> Serviço que nos disponibiliza um forma de se trabalhar com vários arquivos .js
 --> yarn add webpack webpack-cli -D
 --> Criar e configurar o arquivo webpack.config.js
 --> yarn add babel-loader -D
 --> yarn add babel-loader@8.0.0-beta.0 -D
 
-## Webpack Dev Server
+## Webpack Dev Server:
 --> yarn add webpack-dev-server -D
 
-## Async/Await
+## Async/Await:
 --> yarn add @babel/plugin-transform-async-to-generator  -D
 --> yarn add @babel/polyfill -D
